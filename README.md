@@ -4,9 +4,28 @@ Certainly! Creating a well-detailed README is crucial for your Visual Studio Cod
 
 # VSCode Prevent Copy-Paste Extension
 
-## Overview
 
-The VSCode Prevent Copy-Paste extension is a tool designed to restrict developers from copying and pasting code outside the workspace in Visual Studio Code.
+## Description
+
+The VSCode Prevent Copy-Paste extension is a productivity tool for developers working in Visual Studio Code. It addresses the common challenge of accidental code leakage by preventing developers from copying and pasting code outside the current workspace.
+
+## Advantages
+
+- **Enhanced Security:** Protect your codebase by restricting the copying and pasting of sensitive information outside the project's workspace, reducing the risk of unintentional data exposure.
+
+- **Code Consistency:** Encourage developers to maintain code integrity within the designated project, promoting a consistent coding style and structure.
+
+- **Workspace Focus:** Keep developers focused on the task at hand by discouraging the use of copied code from unrelated projects or external sources.
+
+- **Developer Awareness:** The extension notifies users with an information message when activated, ensuring developers are aware of the restriction and fostering a more conscious coding environment.
+
+- **Easy Integration:** Seamlessly integrate the extension into your development workflow with a simple installation process and minimal configuration. It works automatically within the current workspace.
+
+Improve your team's coding practices and enhance the security of your projects with the VSCode Prevent Copy-Paste extension.
+
+---
+
+Feel free to customize the description based on additional features or unique aspects of your extension.
 
 ## Features
 
